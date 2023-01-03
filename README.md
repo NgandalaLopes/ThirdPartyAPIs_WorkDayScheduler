@@ -17,4 +17,6 @@ Link to deployed application [Third Party APIs - Work Day Scheduler](https://nga
 * Javascript
 * Jquery
 * MomentJS
+* Google Fonts
 * Bootstrap
+
